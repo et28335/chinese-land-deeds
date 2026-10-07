@@ -1,0 +1,19 @@
+# Images are not published (rights undetermined, >200MB)
+students_documents_export/
+data/images/
+data/samples/
+data/households/_crops/
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+
+# Separate clone of the team repository
+eastd143a-team-ziyuqiu/
+
+# Local tooling
+.claude/
+__pycache__/
+*.pyc
+~$*
